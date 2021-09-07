@@ -17,5 +17,5 @@
   <!-- stats -->
   <a href="https://github.com/PedroPMS"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPMS&show_icons=true&theme=tokyonight&bg_color=30,0d0d0d,191919&text_color=fff&include_all_commits=true&count_private=true"/>
   <!-- top langs -->
-  <a href="https://github.com/PedroPMS"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMS&layout=compact&theme=tokyonight&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  <a href="https://github.com/PedroPMS"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMS&layout=compact&theme=tokyonight&bg_color=30,0d0d0d,191919&text_color=fff&icon_color=79ff97"/>
 </div>
